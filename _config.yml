@@ -127,7 +127,10 @@ author:
       url: "https://github.com/hia0706"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jins___vv"
+      url: "https://instagram.com/jins____vv"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://www.youtube.com/"
 
 # Site Footer
 footer:
@@ -140,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/hia0706"
+      url: "https://github.com/hia0706"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/jins____vv"
 
 
 # Reading Files
