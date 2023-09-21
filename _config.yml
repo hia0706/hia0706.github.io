@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: "히아의 개발노트"
 
-tagline: Web Developer # it will display as the sub-title
+tagline: 머릿 속에 저장하는 것보다 기록으로 남기자.
 
 description: >- # used by seo meta and the atom feed
   "Step by step"
