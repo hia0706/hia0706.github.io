@@ -41,9 +41,9 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: HIA
   email: ljjs1215@gmail.com # change to your email address
+  # home: https://
   links:
     # The first element serves as the copyright owner's link
-    - https://hia0706.github.io
     - https://github.com/
     - https://www.instagram.com/
     - https://rocketpunch.com/

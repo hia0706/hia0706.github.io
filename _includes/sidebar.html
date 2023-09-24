@@ -61,6 +61,8 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
+        <!-- {% when 'home' %}
+                        {%- assign url = site.social.home -%} -->
         {% when 'github', 'twitter', 'rocketpunch', 'instagram' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
