@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[자료구조] Collection에 대해?"
+title: "[자료구조] Collection에 대해"
 date: 2023-09-24
 categories: [Development, 자료구조]
 tags: [자료구조, java]
@@ -412,7 +412,7 @@ System.out.println(map);
 {1=Hello1, 2=Goodbye2, 3=Hello3, 4=Goodbye4}
 ```
 
-위 방법으로 출력하면 아래의 값을 얻을 수 있지만 HashMap은 순서를 보장하기 않기 때문에 출력된 순서가 아래와 같을 것이라는 보장은 없기 때문에 향상된 for문을 사용해야 한다.
+👉🏻 위 방법으로 출력하면 아래의 값을 얻을 수 있지만 HashMap은 순서를 보장하기 않기 때문에 출력된 순서가 아래와 같을 것이라는 보장은 없기 때문에 `향상된 for문`을 사용해야 한다.
 
 🔽 향상된 for 문
 

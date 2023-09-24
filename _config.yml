@@ -30,12 +30,6 @@ url: "https://hia0706.github.io"
 github:
   username: hia0706
 
-instagram:
-  username: jins___vv
-
-facebook:
-  username: jins___vv
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -43,10 +37,8 @@ social:
   email: ljjs1215@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/username/
-    - https://www.instagram.com/username/
-    - https://twitter.com/
-    - https://www.facebook.com/your_username/
+    - https://github.com/hia0706/
+    - https://twitter.com/ username/
     # - https://www.linkedin.com/in/username
 
 google_site_verification: opnt1iAczEBrr1weBmKrcWhQAmJoaCQo-04rlUlSsQM
