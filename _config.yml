@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "히아의 개발노트"
+title: "HIALOG"
 
-tagline: 머릿 속에 저장하는 것보다 기록으로 남기자.
+tagline: 히아의 개발 로그
 
 description: >- # used by seo meta and the atom feed
   "Step by step"
@@ -30,15 +30,24 @@ url: "https://hia0706.github.io"
 github:
   username: hia0706
 
+instagram:
+  username: jins___vv
+
+rocketpunch:
+  username: "@ljjs1215"
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 히아
+  name: HIA
   email: ljjs1215@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/hia0706/
-    - https://twitter.com/ username/
+    - https://hia0706.github.io
+    - https://github.com/
+    - https://www.instagram.com/
+    - https://rocketpunch.com/
+    # - https://twitter.com/username/
     # - https://www.linkedin.com/in/username
 
 google_site_verification: opnt1iAczEBrr1weBmKrcWhQAmJoaCQo-04rlUlSsQM
@@ -60,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: 
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -146,7 +155,7 @@ defaults:
   -
     scope:
       path: ''
-      type: tabs             # see `site.collections`
+      type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
@@ -168,11 +177,10 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
-  - docs
   - README.md
+  - CHANGELOG.md
   - LICENSE
-  - gulpfile.js
-  - node_modules
+  - rollup.config.js
   - package*.json
 
 jekyll-archives:
