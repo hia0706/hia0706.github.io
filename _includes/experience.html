@@ -1,5 +1,6 @@
 <div class="container experience-container">
   <h3>{{ site.experience_title | default: "Experience" }}</h3>
+  <p class="quote">팀 프로젝트 경험입니다.</p>
   {% for experience in site.data.experience %}
     {% include {{ experience.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=experience %}
   {% endfor %}

@@ -1,0 +1,24 @@
+- layout: left
+  company: 
+  link: 
+  job_title: 
+  dates: 2024.09 ~ 2024.10
+  quote: >
+    AI 지능화 기술을 활용한 스마트 안전진단 관리 통합 시스템 개발
+  description: | # this will include new lines to allow paragraphs
+    * [포트폴리오](https://www.notion.so/Safety-Food-Guard-124f0f33cb908017a3e2f90bc788f51f?pvs=4)
+    * 주기 코드 관리
+    * 일정 관리
+    * 직원 등록 및 수정
+- layout: left
+  company: 
+  link: 
+  job_title: 
+  dates: 2023.07 ~ 2023.09
+  quote: >
+   멀티  플렉스 영화관 플랫폼 웹 개발
+  description: | # this will include new lines to allow paragraphs
+     * [Github](https://github.com/hia0706/mgv)
+     * 공통 레이아웃 & DB 설계 및 
+     * 회원가입, 로그인 구현
+     * 마이페이지, 예매 & 구매내역 구현
