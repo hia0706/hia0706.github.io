@@ -1,0 +1,28 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * Java
+    * Spring Boot, Spring MVC
+    * Gradle, Maven
+    * IntelliJ, Visual Studio Code
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+    * Oracle, MySQL
+    * Tomcat
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * ES6
+- layout: left
+  name: knowledgeable
+  description: | # this will include new lines to allow paragraphs
+    * Node.js
+    * Spring Security
+    * AWS - EC2
+    * PostgreSQL, MariaDB
+- layout: left
+  name: Other
+  description: | # this will include new lines to allow paragraphs
+    * OutSystems
+    * BrityRPA
