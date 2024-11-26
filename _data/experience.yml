@@ -1,10 +1,10 @@
 - layout: left
   company: Safety Food Guard
-  link: https://www.notion.so/Safety-Food-Guard-124f0f33cb908017a3e2f90bc788f51f?pvs=4
+  link: https://bit.ly/sfg_portfolio
   job_title: Lowcode
   dates: 2024.09 ~ 2024.10
   quote: >
-    AI 지능화 기술을 활용한 스마트 안전진단 관리 통합 시스템 개발
+    스마트 안전진단 관리 통합 시스템 개발
   description: | # this will include new lines to allow paragraphs
     * 주기 코드 관리
     * 일정 관리
