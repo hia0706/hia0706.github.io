@@ -1,9 +1,9 @@
 - layout: left
   name: 글로벌 아카데미
   dates: 2024.08 ~ 2024.10
-  link: 
+#  link:
   quote: >
-    심화 LowCode 기반의 AI 융합 스마트관리시스템 개발 심화과정
+    LowCode 기반의 AI 융합 스마트관리시스템 개발 교육
   description: | # this will include new lines to allow paragraphs
     * AI에 관심이 생기고 새로운 경험을 위해 참여
     * 업무 자동화를 위해 BrityRPA 개발 경험
@@ -11,9 +11,9 @@
 - layout: left
   name: 중앙 HTA
   dates: 2023.03 ~ 2023.09
-  link: 
+#  link:
   quote: >
-    Java 기반 컨테이너 애플리케이션 가상화를 통한 Cloud Office 구축 프로젝트 과정
+    Java 기반 웹 개발 교육
   description: | # this will include new lines to allow paragraphs
     * 웹 개발에 관심과 흥미가 생겨 개발자가 되기 위해 참여
     * 기본적인 웹 개발 학습 및 팀 프로젝트를 통해 협업 경험
